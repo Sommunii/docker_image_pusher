@@ -1,1 +1,1 @@
-whyour/qinglong:2.11.3
+evil0ctal/douyin_tiktok_download_api:latest
